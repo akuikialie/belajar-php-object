@@ -23,4 +23,8 @@ class AirConditioning
     {
         // your statement
     }
+
+    public function restartUlang()
+    {
+    }
 }
